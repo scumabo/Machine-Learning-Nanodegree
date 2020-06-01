@@ -4,30 +4,16 @@ This repo contains my work to Udacity nanodegree [Machien Learning Engineer](htt
 
 ## Table of Contents
 
-### 1. Software Engineering Fundamentals [Project](Projects/1-Trading-with-momentum/project_1_starter.ipynb)
+* Software Engineering Fundamentals: Publish a simple [PyPi package](https://github.com/scumabo/Number-Guessing-Game) to practice software engineering fundamentals, e.g., modular code, optimize speed and memory, Docstrings, version control, unit tests, logging, and code review.
 
-* Software Engineering Practices: Modular code, optimize speed and memory, Docstrings, version control, unit tests, logging, and code review.
+* [Machine Learning in Production](SentimentLSTM): Use Sagemaker to develop, train, validate, and deploy a sentiment analysis on movie review model using RNN in Pytorch. Hook the simple webapp with the deployed endpoint using Lambda and API Gateway services in AWS.
 
-* Publish a Pypi package:
+![](2020-05-20-16-46-43.png)
 
-```
-python setup.py sdist
-pip install twine
+* Machine Learning, Case Studies
 
-# commands to upload to the pypi test repository
-twine upload --repository-url https://test.pypi.org/legacy/ dist/*
-pip install --index-url https://test.pypi.org/simple/ dsnd-probability
 
-# command to upload to the pypi repository
-twine upload dist/*
-pip install dsnd-probability
-```
-
-### Machine Learning in Production
-
-### Machine Learning, Case Studies
-
-### Capstone Project
+* Capstone Project
 
 
 
