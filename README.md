@@ -10,7 +10,7 @@ This repo contains my work to Udacity nanodegree [Machien Learning Engineer](htt
 
 ![](2020-05-20-16-46-43.png)
 
-* Machine Learning, Case Studies
+* [Plagiarism Detection](plagiarism_detection): Build a plagiarism detector that examines a text file and performs binary classification; labeling that file as either plagiarized or not, depending on how similar that text file is to a provided source text.
 
 
 * Capstone Project
