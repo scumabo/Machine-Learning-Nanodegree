@@ -1,13 +1,13 @@
 # Machine Learning Engineer
 
 This repo contains my work to Udacity nanodegree [Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t). I'm glad to have chosen this nano-degree and finished within 4 weeks. I gained hands-on experiences on ML pipeline in SageMaker and was exposed to a couple of interesting problems.
+![](images/2020-05-20-16-46-43.png)
 
 ## Table of Contents
 
 1. Software Engineering Fundamentals: Publish a simple [PyPi package](https://github.com/scumabo/Number-Guessing-Game) to practice software engineering fundamentals, e.g., modular code, optimize speed and memory, Docstrings, version control, unit tests, logging, and code review.
 
 2. [Machine Learning in Production](SentimentLSTM): Use Sagemaker to develop, train, validate, and deploy a sentiment analysis on the movie review model using RNN in Pytorch. Hook the simple web app with the deployed endpoint using Lambda and API Gateway services in AWS.
-<img src="images/2020-05-20-16-46-43.png" alt="drawing" width="400"/>
 
 3. [Plagiarism Detection](plagiarism_detection): Build a plagiarism detector that examines a text file and performs binary classification; labeling that file as either plagiarized or not, depending on how similar that text file is to a provided source text.
 
