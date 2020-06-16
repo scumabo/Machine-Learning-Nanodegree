@@ -13,7 +13,7 @@ This repo contains my work to Udacity nanodegree [Machine Learning Engineer](htt
 
 4. [Capstone Project: Stock Prediction](Capstone_stock_prediction): The purpose of the capstone project is to leverage everything learned throughout the program to build an own machine learning engineer project. I build a simple stocker predictor using Pytorch's LSTM in SageMaker. The goal is not to accurately predict the stock market but to gain hands-on experiences on the ML pipeline in SageMaker including data acquisition, data preprocessing and exploration, modeling, hyperparameter tuning, and model evaluation. The project is summarized in the [report](Capstone_stock_prediction/MLND_Capstone_Project_Report.pdf).
 
-![](images/2020-05-20-16-46-43.png)
+![](images\2020-05-20-16-46-43.png)
 
 <!-- 
 ### TODO
