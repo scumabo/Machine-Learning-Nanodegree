@@ -13,11 +13,11 @@ This repo contains my work to Udacity nanodegree [Machien Learning Engineer](htt
 * [Plagiarism Detection](plagiarism_detection): Build a plagiarism detector that examines a text file and performs binary classification; labeling that file as either plagiarized or not, depending on how similar that text file is to a provided source text.
 
 
-* Capstone Project
+* [Capstone Project: Stock Prediction](Capstone_stock_prediction): The purpose of the capstone project is to leverage everything learned throughout the program to build an own machine learning engineer project. I build a simple stocker predictor using Pytorch's LSTM in SageMaker. The goal is not to accurately predict the stock market but to gain hands-on experiences on the ML pipeline in SageMaker including data acquisition, data preprocessing and exploration, modeling, hyperparameter tuning, and model evaluation. The project is summarized in the [report](Capstone_stock_prediction/MLND_Capstone_Project_Report.pdf).
 
 
 
-
+<!-- 
 ### TODO
 
-![](2020-05-18-20-35-07.png)
+![](2020-05-18-20-35-07.png) -->
